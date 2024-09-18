@@ -1,5 +1,4 @@
 # Efficient-Aggregation-Engine
-# Optimized Aggregation Engine
 
 This repository contains two projects aimed at solving an aggregation problem efficiently for small and large datasets. The goal is to implement aggregation functions (SUM, AVERAGE, COUNT DISTINCT) across multiple columns of a dataset, with optimized performance for different data volumes.
 
