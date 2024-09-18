@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AggregationEngine_Small-DataSet/1.0.0": {
+        "runtime": {
+          "AggregationEngine_Small-DataSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AggregationEngine_Small-DataSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

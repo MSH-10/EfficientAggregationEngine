@@ -1,0 +1,15 @@
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.csproj.AssemblyReference.cache
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.AssemblyInfoInputs.cache
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.AssemblyInfo.cs
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.csproj.CoreCompileInputs.cache
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\bin\Debug\net7.0\AggregationEngine_Small-DataSet.exe
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\bin\Debug\net7.0\AggregationEngine_Small-DataSet.deps.json
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\bin\Debug\net7.0\AggregationEngine_Small-DataSet.runtimeconfig.json
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\bin\Debug\net7.0\AggregationEngine_Small-DataSet.dll
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\bin\Debug\net7.0\AggregationEngine_Small-DataSet.pdb
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.dll
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\refint\AggregationEngine_Small-DataSet.dll
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.pdb
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\AggregationEngine_Small-DataSet.genruntimeconfig.cache
+C:\MSH\Clients\Efficient-Aggregation-Engine\AggregationEngine_Small-DataSet\obj\Debug\net7.0\ref\AggregationEngine_Small-DataSet.dll

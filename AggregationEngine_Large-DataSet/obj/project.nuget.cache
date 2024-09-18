@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yD5tTJ5lDImj0uJ13L1i8NUzydYPdUx9TVUtmjkCXzHm8e5LF6/2mIHuzAQn2etniIee4uZuWf/x8TN15LwXow==",
+  "success": true,
+  "projectFilePath": "C:\\MSH\\Clients\\Efficient-Aggregation-Engine\\AggregationEngine_Large-DataSet\\AggregationEngine_Large-DataSet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sajid\\.nuget\\packages\\cardinalityestimation\\1.11.1\\cardinalityestimation.1.11.1.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\murmurhash\\1.0.3\\murmurhash.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
