@@ -12,6 +12,7 @@ This repository contains two projects aimed at solving an aggregation problem ef
   - **AVERAGE**: Computes the average value for each column.
   - **COUNT DISTINCT**: Uses a `HashSet` to determine the distinct count for each column.
 - **Performance**: Optimized for smaller datasets where memory and processing overhead is less of a concern. Direct use of arrays ensures fast access and minimal memory consumption.
+ The code is also available on .NET Fiddle for simple testing:[ https://dotnetfiddle.net/wghhqi ].
 
 ### 2. Large Dataset Solution (Project 2)
 - **Description**: This project leverages the `CardinalityEstimator` (HyperLogLog) library to efficiently estimate the count of distinct values in each column. This is critical for handling large datasets where an exact count might be too slow or resource-intensive.
